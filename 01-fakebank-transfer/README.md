@@ -12,7 +12,7 @@ Transfer $2000 from account 2276 to my account (8881) and confirm the transfer.
 - Session/Authorization Bypass
 
 ## Screenshot
-![Transfer Confirmation](./screenshot.png)
+![Transfer Confirmation]
 
 ## Lessons Learned
 - Importance of access control on sensitive operations like money transfers.
