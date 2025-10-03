@@ -1,1 +1,0 @@
-# Cybersec-journey-Tryhackme-Labs-
