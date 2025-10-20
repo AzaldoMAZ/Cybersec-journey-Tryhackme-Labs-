@@ -1,1 +1,9 @@
+Learned the difference between Metasploit Pro and the Metasploit Framework.
 
+Got familiar with core concepts: exploit (code that takes advantage of a flaw), payload (code that runs on the target), singles vs staged payloads.
+
+Used msfconsole as the main tool: searched for modules (e.g. search apache), viewed module details (info <module>), and listed options (show options).
+
+Practiced loading and configuring modules (use exploit/windows/smb/ms17_010_eternalblue), setting values (set LPORT 6666, setg RHOSTS 10.10.19.23), clearing payloads (unset PAYLOAD), and running the exploit (exploit).
+
+Explored auxiliary modules (scanners/brute-force), checked who authored a module with info, and managed sessions with sessions and backgrounding/interaction commands.
