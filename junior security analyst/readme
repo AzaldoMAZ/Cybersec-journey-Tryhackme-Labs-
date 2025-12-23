@@ -1,1 +1,27 @@
+SIEM Dashboard: Displays security alerts with details:
 
+Date and time
+
+Severity (Critical, Medium, Low)
+
+Message (what happened, e.g., unauthorized login)
+
+Critical alerts highlight a malicious IP address: 221.181.185.159.
+
+Actions taken: You escalated the alert to “Will Griffin” and blocked the IP on the firewall.
+
+Charts:
+
+Alerts by category: Shows proportions of Malware, Phishing, Intrusion, Anomaly.
+
+Logins by country: Shows where login attempts came from.
+
+Summary
+
+This exercise teaches:
+
+How to identify malicious activity from SIEM alerts.
+
+How to escalate threats appropriately.
+
+How to respond to incidents, like blocking an IP and confirming the action.
